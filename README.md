@@ -5,49 +5,12 @@ cartoon website
 <head>
     <title>My Cartoon Website</title>
 
-    <style>
-        body {
-            background-color: lightblue;
-            font-family: Arial;
-            text-align: center;
-        }
-
-        h1 {
-            color: darkblue;
-        }
-
-        .box {
-            background: white;
-            margin: 20px;
-            padding: 15px;
-            border-radius: 10px;
-        }
-
-        iframe {
-            width: 300px;
-            height: 200px;
-        }
-    </style>
+   
 </head>
 
 <body>
 
-    <h1>My Cartoon Website</h1>
-
-    <div class="box">
-        <h2>Chhota Bheem</h2>
-        <iframe src="https://www.youtube.com/embed/RVgMS4T80kg"></iframe>
-    </div>
-
-    <div class="box">
-        <h2>Shinchan</h2>
-        <iframe src="https://www.youtube.com/embed/VIDEO_ID"></iframe>
-    </div>
-
-    <div class="box">
-        <h2>Jackie Chan</h2>
-        <iframe src="https://www.youtube.com/embed/VIDEO_ID"></iframe>
-    </div>
+   
 
 </body>
 </html>file:///C:/Users/kajan/OneDrive/Desktop/index.html
