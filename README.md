@@ -37,9 +37,6 @@ body {
 </div>
 <h2>Chhota Bheem Episodes</h2>
 
-<iframe src="https://www.youtube.com/embed/video1"></iframe>
-<iframe src="https://www.youtube.com/embed/video2"></iframe>
-<iframe src="https://www.youtube.com/embed/video3"></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XKGQFWrAVT8?si=Wt9cXigPF3wT-A5J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ieIfdTlY07w?si=dP6JcKt0YGCS1WT_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OTNUGlFueoQ?si=wPE6hl9FdmW6AlaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
