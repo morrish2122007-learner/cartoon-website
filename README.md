@@ -12,25 +12,6 @@ cartoon website
 
    
 
-</body>
-</html>file:///C:/Users/kajan/OneDrive/Desktop/index.html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z0LnXL4sdA0?si=V2PNqm4Z_aBa8Qzt&amp;start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<h1>Main Title</h1>
-<h2>Section Title</h2>
-<h3>Sub-section</h3>
-<div class="box">
-    <h2>Ninja Hattori</h2>
-    <iframe src="https://www.youtube.com/embed/VIDEO_ID"></iframe>
-</div>
-
-<div class="box">
-    <h2>Jackie Chan</h2>
-    <iframe src="https://www.youtube.com/embed/VIDEO_ID"></iframe>
-</div>
-<!DOCTYPE html>
-<html>
-<head>
-<title>Cartoon World</title>
 
 <style>
 body {
