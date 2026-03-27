@@ -33,17 +33,7 @@ body {
 <body>
 
 
-</body>
-</html>
-<div class="box">
-    <h2>Chhota Bheem</h2>
-    <iframe src="https://www.youtube.com/embed/RVgMS4T80kg"
-    width="300" height="200" allowfullscreen></iframe>
-</div>
-<div class="box">
-    <h2>Jackie Chan Adventures</h2>
-    <iframe src="https://www.youtube.com/embed/VIDEO_ID"
-    width="300" height="200" allowfullscreen></iframe>
+
 </div>
 <h2>Chhota Bheem Episodes</h2>
 
